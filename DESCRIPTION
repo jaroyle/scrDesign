@@ -1,0 +1,11 @@
+Package: scrDesign
+Type: Package
+Title: design of capture-recapture studies
+Version: 0.1-0
+Suggests: raster, rjags, R2Cuba, gdistance
+Date: 2013-09-01
+Author: Andy Royle, Chris Sutherland
+Maintainer: Andy Royle <aroyle@usgs.gov>
+Description: ...........................blah blah blah ............
+License: What license is it under?
+LazyLoad: yes
