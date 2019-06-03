@@ -6,7 +6,7 @@ library(rgdal)
 library(lwgeom)
 library(raster)
 library(mapview)
-library(scrDesign)
+#library(scrDesign)
 
 #hypothestical study area (White mountatin national forest)
 wmnf <- st_read("data/wmnf_boundary.shp")
